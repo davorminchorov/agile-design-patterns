@@ -1,0 +1,23 @@
+{
+    "name": "rufflesaurus/agile-design-patterns",
+    "description": "Agile Design Patterns examples",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruffles-PC",
+            "email": "davorminchorov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+
+    "require": {
+
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "Acme"
+        }
+    }
+
+}
